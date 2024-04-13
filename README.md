@@ -1,5 +1,4 @@
 ### Hi there, I'm Oguz 👋
-qwdqwd
 
 <!--
 **oguzcinar29/oguzcinar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
