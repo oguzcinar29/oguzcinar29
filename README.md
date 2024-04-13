@@ -1,6 +1,7 @@
 ### Hi there, I'm Oguz 👋
 
-Language and Tools:
+<h3>Language and Tools:</h3>
+
 <br />
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,nextjs,expressjs,react,postgres,mongodb)](https://skillicons.dev)
 <!--
